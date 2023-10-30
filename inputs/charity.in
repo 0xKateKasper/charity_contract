@@ -1,0 +1,15 @@
+// The program input for wright_charity/src/main.leo
+[add_item]
+user_address: address = aleo1875942p6nxagsxrd4kj0cx3yeg8undscgc60vlvsazfdudpxeggqp8hr5v;
+item_name: String = String { data0: 1234567890u128, data1: 1234567891u128, data2: 0u128, data3: 0u128, data4: 0u128, data5: 0u128, data6: 0u128, data7: 0u128 };
+item_description: String = String { data0: 9876543210u128, data1: 9876543211u128, data2: 0u128, data3: 0u128, data4: 0u128, data5: 0u128, data6: 0u128, data7: 0u128 };
+
+[grant_access]
+user_address: address = aleo1875942p6nxagsxrd4kj0cx3yeg8undscgc60vlvsazfdudpxeggqp8hr5v;
+granted_address: address = aleo1875942p6nxagsxrd4kj0cx3yeg8undscgc60vlvsazfdudpxeggqp8hr5v;
+position: u8 = 0u8;
+
+[view_wishlist]
+user_address: address = aleo1875942p6nxagsxrd4kj0cx3yeg8undscgc60vlvsazfdudpxeggqp8hr5v;
+viewer_address: address = aleo1875942p6nxagsxrd4kj0cx3yeg8undscgc60vlvsazfdudpxeggqp8hr5v;
+

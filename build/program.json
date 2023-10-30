@@ -1,0 +1,10 @@
+{
+    "program": "charity.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpByckSpT2YkueZyoe4J3wUjQd5VKGu3TaE3vn7em79iT8",
+        "address": "aleo1lfurafc86ksklvsy630jaqymdyctrqtqyss7aatxxarmc9qmwgxq45z79p"
+    },
+    "license": "MIT"
+}
