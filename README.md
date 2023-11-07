@@ -1,5 +1,7 @@
 ![alt text](imgs/charity.png "quiz")
 
+# Discord - kate_kasper
+
 #Charity Contract on Aleo
 
 A decentralized application on the Aleo platform that allows users to maintain a wishlist and grant access to specific people to view it.
